@@ -503,12 +503,7 @@ footer p{
         flex-direction: column;
     }
 
-    .gallery-text {
-        padding: 20px 13% 100px;
-    
-    }
-
-
+  
     .all-photos{ 
 
       padding: 50px 3% 150px;
@@ -553,11 +548,6 @@ footer p{
      .About-hero-img {
                     margin-top: 70px;
                     }
-
-
-    .gallery-text {
-        padding: 20px 5% 100px;
-         }
 
     .contact-us {
         padding: 60px 5%;
@@ -635,15 +625,6 @@ footer p{
         font-size: 8px;
     }
 
-    
-    .gallery-text h1 {
-        font-size:24px ;   
-    }
-
-    .gallery-text {
-        padding: 20px 5% 100px;
-                  
-       }
 
             body {
                 overflow-x: hidden;
