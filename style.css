@@ -273,7 +273,7 @@ height: auto;
 
 height: 250px;
   /* background:  linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("images2/Rapha4BetaAll.jpg"); */
-  background:  linear-gradient(rgba(0, 0, 0, 0.01), #6cc32996), url("images2/Rapha3Beta.jpg");
+  background:  linear-gradient(rgba(0, 0, 0, 0.01), #6cc32996), url("imagesOptimized/Rapha3Beta.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed; 
