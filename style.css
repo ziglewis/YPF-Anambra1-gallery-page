@@ -355,6 +355,7 @@ height: 250px;
 
 .blog a {
     text-decoration: none;
+    cursor: pointer;
 }
 
 .blog a p{
